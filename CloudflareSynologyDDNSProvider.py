@@ -12,7 +12,7 @@
 #      
 #      [Task Settings Tab]
 #      [Run Command] User-defined script
-#          curl https://raw.githubusercontent.com/namukcom/SynologyCloudflareDDNS/master/setddns.py | python3 -
+#          curl https://raw.githubusercontent.com/aleclerc7/SynologyCloudflareDDNS/master/CloudflareSynologyDDNSProvider.py | python3 -
 #   3. Press OK
 #   4. Right-Click on the task you've just created.
 #   5. Click Run
